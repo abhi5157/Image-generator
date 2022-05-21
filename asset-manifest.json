@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Image-generator/static/css/main.3e6bcf76.css",
+    "main.js": "/Image-generator/static/js/main.a5a29c4c.js",
+    "static/media/avtar.webp": "/Image-generator/static/media/avtar.c8e63466cc7d35e509e8.webp",
+    "index.html": "/Image-generator/index.html",
+    "main.3e6bcf76.css.map": "/Image-generator/static/css/main.3e6bcf76.css.map",
+    "main.a5a29c4c.js.map": "/Image-generator/static/js/main.a5a29c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6bcf76.css",
+    "static/js/main.a5a29c4c.js"
+  ]
+}
